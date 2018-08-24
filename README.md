@@ -1,2 +1,3 @@
-# buggy
-online food delivery portal
+# NTCL HR PORTAL
+
+Web portal for hr department of ntcl
